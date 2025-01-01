@@ -7,4 +7,4 @@ Built with a perfect blend of HTML, CSS, and powerful JS animation libraries lik
 
 Experience smooth transitions, dynamic scrolling effects, and engaging visuals.
 
-Check it out here:https://bhushan-programming.github.io/bhushan.agency/
+Check it out here:https://bhushanbitwise.github.io/bhushan.agency/
